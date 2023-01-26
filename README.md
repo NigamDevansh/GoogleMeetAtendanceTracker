@@ -6,9 +6,7 @@ It's a google chrome extension which trackes the Attendance of the students pres
 
 ## Screenshots
 
-<img src="images/Flowchart.jpg" height="500">
-
-<img src="images/LoginMenu.jpg" width="800">
+❮img src="images/Flowchart.jpg" height="100"❯
 
 <img src="images/BatchDetails.jpg" width="800">
 
