@@ -6,16 +6,15 @@ It's a google chrome extension which trackes the Attendance of the students pres
 
 ## Screenshots
 
-<img src="images/FlowChart.jpg" height="500">
+❮img src="images/FlowChart.jpg" height="100"❯
 
-<img src="images/LoginMenu.jpg" width="800">
+❮img src="images/LoginMenu.jpg" height="150"❯
 
-<img src="images/BatchDetails.jpg" width="800">
+❮img src="images/BatchDetails.jpg" height="150"❯
 
-<img src="images/StudentLists.jpg" width="800">
+❮img src="images/StudentLists.jpg" height="150"❯
 
-<img src="images/EndMeetScreen.jpg" width="800">
+❮img src="images/EndMeetScreen.jpg" height="150"❯
 
-<img src="images/ExcelSheetOfPresentStudents.jpg" width="800">
-
+❮img src="images/ExcelSheetOfPresentStudents.jpg" height="150"❯
 
